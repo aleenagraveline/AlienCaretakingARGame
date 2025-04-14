@@ -1,0 +1,19 @@
+# ninja log v5
+87	2535	7647112664286898	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4d0f003466e491ec
+20	2405	7647112662733612	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c7002b82172d1402
+51	2451	7647112662946803	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	517d18f90fadf5eb
+35	2600	7647112664954555	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c8e5d1639c8590b4
+98	2481	7647112663711405	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	11bdd094d9b79ad2
+64	2488	7647112663701409	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	55c1475d9bd3a545
+2854	3065	7647112669673491	C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/AR Setup/Library/PramData/AndroidApplicationController/Cache/com.aleenagraveline.ARSetup/gradle-project/unityLibrary/build/intermediates/cxx/Debug/396ff1fg/obj/arm64-v8a/libgame.so	b1b5f9c854a325a6
+75	2781	7647112666809501	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bb7c0d03d6999abb
+1	2853	7647112667513920	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3e91162b0b9a36e4
+16	1720	7653077143349268	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c7002b82172d1402
+24	1787	7653077144182247	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	517d18f90fadf5eb
+33	1845	7653077144838334	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4d0f003466e491ec
+28	1885	7653077145228309	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	11bdd094d9b79ad2
+12	1942	7653077145863433	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c8e5d1639c8590b4
+9	1975	7653077146180752	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	55c1475d9bd3a545
+20	2097	7653077147396660	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bb7c0d03d6999abb
+4	2155	7653077148002885	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3e91162b0b9a36e4
+2156	2522	7653077151727734	C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/AR Setup/Library/PramData/AndroidApplicationController/Cache/com.aleenagraveline.ARSetup/gradle-project/unityLibrary/build/intermediates/cxx/Debug/396ff1fg/obj/arm64-v8a/libgame.so	b1b5f9c854a325a6

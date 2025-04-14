@@ -1,0 +1,5 @@
+C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/Demos/AR Setup/.utmp/Debug/441f74l3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/Demos/AR Setup/.utmp/Debug/441f74l3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/Demos/AR Setup/.utmp/Debug/441f74l3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/Demos/AR Setup/.utmp/Debug/441f74l3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/queen/Documents/Quinnipiac/Year-3/Spring-2025/GDD-314/Demos/AR Setup/.utmp/Debug/441f74l3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
